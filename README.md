@@ -146,7 +146,7 @@ Ship.js provides a kind of half automation, which rather gives you a chance to:
 - Confirm the next version is actually correct which is semantically bumped
 - Check which commits are going to be released and discuss with colleagues
 - Check the automatically generated changelog and refine it
-- Put the release aside for a second, build a test package for the PR and test it in another environments(Possibly [Pika CI](https://github.com/apps/pika-ci) can be used here).
+- Put the release aside for a second, build a test package for the PR and test it in another environments(Possibly [Pika CI](https://github.com/marketplace/pika-ci-cd) can be used here).
 
 ## Contributing
 
